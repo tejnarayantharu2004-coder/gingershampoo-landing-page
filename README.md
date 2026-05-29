@@ -19,8 +19,8 @@ Copy `.env.example` to `.env.local` and fill the values:
 
 ```bash
 NEXT_PUBLIC_SITE_URL=http://localhost:3000
-BUSINESS_EMAIL=digitaltejnarayan@gmail.com
-EMAIL_FROM=digitaltejnarayan@gmail.com
+BUSINESS_EMAIL=tejnarayantharu2004@gmail.com
+EMAIL_FROM=tejnarayantharu2004@gmail.com
 BRAND_NAME=Kesh Care Nepal
 
 GOOGLE_SHEET_ID=
@@ -92,7 +92,7 @@ npm run dev
 6. Confirm that:
 
 - A new row appears in Google Sheets.
-- `digitaltejnarayan@gmail.com` receives the business notification.
+- `tejnarayantharu2004@gmail.com` receives the business notification.
 - The customer email receives the order confirmation.
 - The browser redirects to `/thank-you`.
 
